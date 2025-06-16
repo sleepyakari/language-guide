@@ -1,2 +1,4 @@
 # language-guide
-A repo for language learning stuff. View branches for different languages.
+A repo for language learning stuff.
+Current Language:
+日本語
